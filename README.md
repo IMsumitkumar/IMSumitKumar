@@ -1,5 +1,5 @@
 [<img align="right" alt="sumit" width="34px" src="https://img.icons8.com/bubbles/50/000000/like.png"/>](https://imsumitkumar.github.io/sumit/)
-### Hi there, I'm Sumit - aka NuCL3YA👋
+### Hi there, I'm Sumit - aka NuCL3YA 👋
 
 <!-- **IMsumitkumar/IMSumitKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <hr/>
@@ -18,10 +18,10 @@
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/data.lead/?hl=en)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](www.linkedin.com/in/sumit706)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://imsumitkumar.github.io/sumit/)
-[<img align="left" alt="sumit" width="37px" src="https://img.icons8.com/windows/32/000000/kaggle.png"/>](https://www.kaggle.com/sumitdon)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/youtube-play.png"/>](https://imsumitkumar.github.io/sumit/)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/>](https://medium.com/@sumit07)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/carbon-copy/100/000000/linkedin.png"/>](https://inblog.in/@sksumit068)
+[<img align="left" alt="sumit" width="34px" src="https://img.icons8.com/windows/32/000000/kaggle.png"/>](https://www.kaggle.com/sumitdon)
 
 
 <br />
@@ -44,8 +44,11 @@
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
 
 
+<br />
+<br />
 
-
-
+## 📺 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 

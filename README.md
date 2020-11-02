@@ -2,7 +2,6 @@
 ### Hi there, I'm Sumit - aka NuCL3YA 👋
 
 <!-- **IMsumitkumar/IMSumitKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<hr/>
 
 ### I'm a Student  !!
 

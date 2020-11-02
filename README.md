@@ -1,16 +1,16 @@
 [<img align="right" alt="sumit" width="34px" src="https://img.icons8.com/bubbles/50/000000/like.png"/>](https://imsumitkumar.github.io/sumit/)
-### Hi there, I'm Sumit - aka NuCL3YA 👋
+### Hi there, I'm Sumit - aka NuCL3YA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- **IMsumitkumar/IMSumitKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### I'm a Student  !!
 
-- 🔭 I’m currently working on a project of automating the machine learning pipeline.
+- 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning mathematics behind machine learning.
 - 🤔 I’m looking to forward to create youtube videos.
 - 👯 I'm learning new things everyday.
-- 📫 How to reach me: sksumit068@gmail.com
-- ⚡ Fun fact: I love to draw and travel.
+- 📫 How to reach me: mail me @ sksumit068@gmail.com
+- ⚡ Fun fact: I love 🐱s and drawing.
 
 ### Connect with me :
 
@@ -49,5 +49,3 @@
 ## 📺 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-

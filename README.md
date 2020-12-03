@@ -42,15 +42,3 @@
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/docker.png"/>](docker)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
 
-
-<br />
-<br />
-
-## 📺 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Getting started with pandas | Loading the data](https://medium.com/@sumit07/getting-started-with-pandas-loading-the-data-62cc34684918?source=rss-2d1b38891d31------2)
-- [part-2 )( Dockerize and deploy Machine learning model as REST API using Flask](https://medium.com/@sumit07/part-2-dockerize-and-deploy-machine-learning-model-as-rest-api-using-flask-b8e1a059db90?source=rss-2d1b38891d31------2)
-- [part-1 )( Dockerize and deploy Machine learning model as REST API using Flask](https://medium.com/@sumit07/part-1-dockerize-and-deploy-machine-learning-model-as-rest-api-using-flask-db685cf52cb9?source=rss-2d1b38891d31------2)
-- [Speed Up your Pandas by 10x](https://medium.com/@sumit07/speed-up-your-pandas-by-10x-15b6db6d1626?source=rss-2d1b38891d31------2)
-- [File Reading and Writing operation with Pandas](https://medium.com/@sumit07/file-reading-and-writing-operation-with-pandas-1b82e350bc98?source=rss-2d1b38891d31------2)
-<!-- BLOG-POST-LIST:END -->

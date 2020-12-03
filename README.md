@@ -14,6 +14,8 @@
 - 📫 How to reach me: mail me @ sksumit068@gmail.com
 - ⚡ Fun fact: I love 🐱s and drawing.
 
+CheckOut my personal or Blog website  :  [Finding Data](https://www.findingdata.ml/)
+
 ### Connect with me :
 
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/data.lead/?hl=en)

@@ -1,5 +1,5 @@
 [<img align="right" alt="sumit" width="34px" src="https://img.icons8.com/bubbles/50/000000/like.png"/>](https://imsumitkumar.github.io/sumit/)
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/IMsumitkumar/IMSumitKumar/blob/main/Images/illustration.png" width="300"/>
 
 ### Hi there, I'm Sumit - aka NuCL3YA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 

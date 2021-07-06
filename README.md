@@ -7,10 +7,7 @@
 
 ### I'm a Student  !!
 
-- 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning mathematics behind machine learning.
-- 🤔 I’m looking to forward to create youtube videos.
-- 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ sksumit068@gmail.com
 - ⚡ Fun fact: I love 🐱s and drawing.
 
